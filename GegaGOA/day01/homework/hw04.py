@@ -1,0 +1,10 @@
+#4)დაპირნტტეთ თქვენი სახელი 10 ჯერ
+print("gega")
+print("gega")
+print("gega")
+print("gega")
+print("gega")
+print("gega")
+print("gega")
+print("gega")
+print("gega")
