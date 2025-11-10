@@ -1,2 +1,1 @@
-#ar gvqonda saklaso davaleba  4k
-fubugvyfuibhjivcftuiygbgiiiiiiiiiiiiiiiiiiiih
+#ar gvqonda saklaso davaleba  
