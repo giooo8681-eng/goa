@@ -1,0 +1,1 @@
+#shevasrule es davaleba
