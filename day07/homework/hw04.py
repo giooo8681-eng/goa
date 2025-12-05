@@ -2,5 +2,5 @@
 #True or False  #true
 #false or false #false
 #true and true #true
-#true and fole #false
-#flase or true #false
+#true and false #false
+#false or true #True

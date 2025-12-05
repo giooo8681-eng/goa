@@ -4,4 +4,4 @@
 #შემდეგ დაპრინტეთ წინადადება "გამარჯობა {user_name}, შენ ცხოვრობ {user_city} ში
 user_name = input("შეიყვანეთ თქვენი სახელი: ")
 user_city = input("შეიყვანეთ თქვენი ქალაქი: ")
-print("გამარჯობა {user_name}, შენ ცხოვრობ {user_city} ში")
+print("გამარჯობა", user_name, "შენ ცხოვრობ", user_city + "ში")
