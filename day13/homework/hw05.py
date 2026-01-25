@@ -1,0 +1,1 @@
+# 5)sololearn using indexing ებამდე
